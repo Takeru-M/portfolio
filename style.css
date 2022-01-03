@@ -1,6 +1,6 @@
 /* 共通部分 */
 body{
-  background-image: url(../image/Night\ Sky\ Wallpapers\,\ free\ Night\ Sky\ Wallpaper\ Download\ \ \,\ Page\ 3.png);
+  background-image: url(https://github.com/Takeru-M/portfolio/blob/main/image/Night%20Sky%20Wallpapers,%20free%20Night%20Sky%20Wallpaper%20Download%20%20,%20Page%203.png?raw=true);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -181,7 +181,7 @@ h3{
 .service{
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url(../image/4947959_m.jpg);
+  background-image: url(https://github.com/Takeru-M/portfolio/blob/main/image/2664027.jpg?raw=true);
   background-position: center;
   background-size: cover;
 }
@@ -290,7 +290,7 @@ h3{
 
 /* works */
 .works{
-  background-image: url(../image/4776751_m.jpg);
+  background-image: url(https://github.com/Takeru-M/portfolio/blob/main/image/4776751_m.jpg?raw=true);
   background-position: center;
   background-size: cover;
   padding: 60px 30px;
